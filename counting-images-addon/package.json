@@ -1,0 +1,16 @@
+{
+  "title": "Counting Images Addon",
+  "name": "counting-images-addon",
+  "version": "0.1.1",
+  "description": "Allows you to generate images of bespoke lengths/widths for testing",
+  "main": "index.js",
+  "author": "Pete Houghton",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing"
+  ]
+}
